@@ -6,7 +6,7 @@ import java.util.function.Predicate;
 
 public class BaseSchema<T> {
 
-    LinkedHashMap<String, Predicate<T>> checks = new LinkedHashMap<>();
+  protected LinkedHashMap<String, Predicate<T>> checks = new LinkedHashMap<>();
 
     public final boolean isValid(T obj) {
         boolean validation = true;

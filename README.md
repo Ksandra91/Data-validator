@@ -5,9 +5,9 @@
 
 ![Java CI](https://github.com/Ksandra91/java-project-78/actions/workflows/main.yml/badge.svg)
 
-[![Maintainability](https://api.codeclimate.com/v1/badges/060975d606885a91d61b/maintainability)](https://codeclimate.com/github/Ksandra91/java-project-71/maintainability)
+[![Maintainability](https://api.codeclimate.com/v1/badges/aa283b027c49139748ef/maintainability)](https://codeclimate.com/github/Ksandra91/java-project-78/maintainability)
 
-[![Test Coverage](https://api.codeclimate.com/v1/badges/060975d606885a91d61b/test_coverage)](https://codeclimate.com/github/Ksandra91/java-project-71/test_coverage)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/aa283b027c49139748ef/test_coverage)](https://codeclimate.com/github/Ksandra91/java-project-78/test_coverage)
 
 Валидатор данных – библиотека, с помощью которой можно проверять корректность любых данных.
 
