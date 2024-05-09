@@ -9,7 +9,7 @@ public class NumberSchema extends BaseSchema<Integer> {
     }
 
     public final NumberSchema required() {
-        checks.put("required", Objects::nonNull);
+        checks.put("requiredNumber", Objects::nonNull);
         return this;
     }
 
