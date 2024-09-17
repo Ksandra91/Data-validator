@@ -9,9 +9,9 @@
 
 [![Test Coverage](https://api.codeclimate.com/v1/badges/aa283b027c49139748ef/test_coverage)](https://codeclimate.com/github/Ksandra91/java-project-78/test_coverage)
 
-Валидатор данных – библиотека, с помощью которой можно проверять корректность любых данных.
+Data validator is a library that can be used to check the correctness of any data.
 
-Пример использования:
+Use example:
 
 ```import hexlet.code.Validator;
 import hexlet.code.schemas.StringSchema;
